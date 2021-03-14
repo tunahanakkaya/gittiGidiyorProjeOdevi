@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-14T15:01:04 TRT" name="Default suite" finished-at="2021-03-14T15:02:07 TRT" duration-ms="63852">
+    <groups>
+    </groups>
+    <test started-at="2021-03-14T15:01:04 TRT" name="Default test" finished-at="2021-03-14T15:02:07 TRT" duration-ms="63852">
+      <class name="gittigidiyorTestinium.gittigidiyorTestCase">
+        <test-method signature="f()[pri:0, instance:gittigidiyorTestinium.gittigidiyorTestCase@44821a96]" started-at="2021-03-14T15:01:04 TRT" name="f" finished-at="2021-03-14T15:02:07 TRT" duration-ms="63766" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- gittigidiyorTestinium.gittigidiyorTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
