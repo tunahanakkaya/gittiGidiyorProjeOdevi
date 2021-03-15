@@ -1,5 +1,5 @@
 # gittiGidiyorProjeOdevi
-Testinium
+
 - Proje Java programlama dilinde yazılmıştır.
 - Proje Maven projesi olarak yazılmıştır.
 - Selenium, JUnit kütüphaneleri kullanılmıştır.
